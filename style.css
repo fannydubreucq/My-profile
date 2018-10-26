@@ -77,15 +77,12 @@ a:hover {
 	border-radius: 50%;
 }
 
-.btn-black {
 .btn-red {
 	background-color: black;
 	color: white;
 	padding: 15px 20px;
 	border-radius: 4px;
 }
-.btn-black:hover {
-	background-color: purple;
 .btn-red:hover {
 	background-color: red;
 	color:white;
