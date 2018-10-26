@@ -77,15 +77,15 @@ a:hover {
 	border-radius: 50%;
 }
 
-.btn-red {
+.btn-black {
 	background-color: black;
 	color: white;
 	padding: 15px 20px;
 	border-radius: 4px;
 }
-.btn-red:hover {
+.btn-black:hover {
 	background-color: red;
-	color:white;
+	color: white;
 }
 
 .list-inline {
